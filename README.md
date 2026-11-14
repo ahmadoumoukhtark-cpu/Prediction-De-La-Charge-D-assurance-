@@ -249,5 +249,5 @@ streamlit run app.py
 
 **Ahmadou Moukhtar** — Étudiant en Master Ingénierie de l'IA
 
-- LinkedIn : _[lien]_
+- LinkedIn : [https://www.linkedin.com/in/ahmadou-moukhtar-kane-405a503b5]
 - GitHub : [ahmadoumoukhtark-cpu](https://github.com/ahmadoumoukhtark-cpu)
